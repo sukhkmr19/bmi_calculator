@@ -1,0 +1,4 @@
+#Thu Dec 27 12:36:27 IST 2018
+base.0=/Users/brainmobi/Flutterprojects/bmi_calculator/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
